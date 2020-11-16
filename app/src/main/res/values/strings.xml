@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">CS297PAndroid_DynamicDuo</string>
+    <string name="sign_up_btn">Sign Up</string>
+    <string name="login_btn">Login with Email</string>
+    <string name="email_addr_login">email</string>
+    <string name="password_login">password</string>
+    <string name="email_addr_signup">email</string>
+    <string name="password_signup">pw</string>
+    <string name="password_repeat_signup">pw_repeat</string>
+    <string name="preferred_name_signup">name</string>
 </resources>
